@@ -23,8 +23,8 @@ entries:
       name: Bitnami
     name: ghost
     sources:
-    - https://github.com/helm/charts
+    - https://github.com/arunimmadi/charts
     urls:
-    - https://github.com/helm/charts/tree/master/stable/ghost/Chart.yaml
+    - https://github.com/arunimmadi/charts/tree/master/stable/ghost
     version: 7.0.1
 generated: "2019-08-08T18:22:26.8007055-07:00"
